@@ -8,12 +8,8 @@ do
     i=$((i+1))
 done
 
-j=1
-while [ $j -le 5 ]
-do  
-    echo "${array[$j]}"
-    j=$((j+1))
-done
+
+echo ${array[@]}
 
 # accessing second element and printing 
 
