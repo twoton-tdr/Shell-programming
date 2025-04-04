@@ -1,4 +1,16 @@
 # Program to find the length of an array
+
+#short answer
+arr1=(apple orange cherry banana)
+echo "Array = ${arr1[@]}"
+echo "length is ${#arr1[@]}"
+
+
+
+#long answer
+#here we take input from the users for each element 
+#then we check the length
+
 arr=()
 
 flag=true
