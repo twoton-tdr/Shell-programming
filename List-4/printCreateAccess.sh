@@ -1,3 +1,5 @@
+#Q1,Q2,Q3
+
 # Program to create an array of 5 elements and print all the elements
 array=()
 i=1
