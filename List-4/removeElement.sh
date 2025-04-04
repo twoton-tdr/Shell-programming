@@ -1,5 +1,6 @@
 # Program to remove element from the array
 array=(MercedesBenz BMW Toyota Nissan)
+echo "Current array : ${array[@]}"
 echo -n "Enter the index of the element to be removed : "
 
 read index
